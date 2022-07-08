@@ -1,0 +1,10 @@
+Flask
+Flask-Migrate
+flask-restx
+Flask-SQLAlchemy
+Werkzeug
+psycopg2-binary
+pyjwt
+datetime
+uuid
+argon2-cffi
